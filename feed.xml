@@ -3,7 +3,7 @@
     <title>ontrip-blog</title>
     <link href="https://devotas.github.io/feed.xml" rel="self" />
     <link href="https://devotas.github.io" />
-    <updated>2019-08-12T16:43:57+02:00</updated>
+    <updated>2019-08-12T16:48:20+02:00</updated>
     <author>
         <name>ontrip</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>ontrip</name>
         </author>
-        <link href="https://devotas.github.io/hello-world.html"/>
-        <id>https://devotas.github.io/hello-world.html</id>
+        <link href="https://devotas.github.io/hello-world/"/>
+        <id>https://devotas.github.io/hello-world/</id>
 
         <updated>2019-08-12T15:15:13+02:00</updated>
             <summary></summary>
