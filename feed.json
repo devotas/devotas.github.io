@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ontrip-blog",
+    "description": "",
+    "home_page_url": "https://devotas.github.io",
+    "feed_url": "https://devotas.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ontrip"
+    },
+    "items": [
+        {
+            "id": "https://devotas.github.io/hello-world.html",
+            "url": "https://devotas.github.io/hello-world.html",
+            "title": "Hello World!",
+            "content_html": "<img class=\"post__image\" src=\"https://devotas.github.io/media/posts/1/IMG_20190216_153353.jpg\" alt=\"\" width=\"4160\" height=\"2340\">",
+            "author": {
+                "name": "ontrip"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-12T15:07:52+02:00",
+            "date_modified": "2019-08-12T15:15:13+02:00"
+        }
+    ]
+}

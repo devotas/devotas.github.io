@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ontrip-blog</title>
+    <link href="https://devotas.github.io/feed.xml" rel="self" />
+    <link href="https://devotas.github.io" />
+    <updated>2019-08-12T15:16:53+02:00</updated>
+    <author>
+        <name>ontrip</name>
+    </author>
+    <id>https://devotas.github.io</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>ontrip</name>
+        </author>
+        <link href="https://devotas.github.io/hello-world.html"/>
+        <id>https://devotas.github.io/hello-world.html</id>
+
+        <updated>2019-08-12T15:15:13+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <img class="post__image" src="https://devotas.github.io/media/posts/1/IMG_20190216_153353.jpg" alt="" width="4160" height="2340">
+            ]]>
+        </content>
+    </entry>
+</feed>
